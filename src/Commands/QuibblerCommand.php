@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace TILABS\Quibbler\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class QuibblerCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'quibbler';
 
     public $description = 'My command';
 
